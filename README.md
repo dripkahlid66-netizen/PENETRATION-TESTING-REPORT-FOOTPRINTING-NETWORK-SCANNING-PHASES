@@ -172,8 +172,10 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 <img width="2538" height="1429" alt="Screenshot 2026-09-16 225329" src="https://github.com/user-attachments/assets/9e855df4-a78a-4ced-a6b0-8c6990091383" />
 
 Author: Dominic Joshua
+
 Cybersecurity professional BO83
 linkedin: www.linkedin.com/in/dominic-joshua-bb69473a
+
 📌 Project Information
 Program Name: Cybersecurity program at Networkwalks
 
