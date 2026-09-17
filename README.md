@@ -163,13 +163,13 @@ I also learned that technical findings should be documented clearly. A good cybe
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 
 ## 8. Evidences Collected
-<img width="2538" height="1429" alt="Screenshot 2026-09-16 225329" src="https://github.com/user-attachments/assets/51c0f02b-fc56-4973-964f-96cd744df001" />
-<img width="1346" height="1364" alt="Screenshot 2026-09-16 103655" src="https://github.com/user-attachments/assets/d2103271-cdbe-4323-8242-7926d01fad83" />
-<img width="1346" height="1364" alt="Screenshot 2026-09-16 103452" src="https://github.com/user-attachments/assets/16d64ccd-2f41-44c3-af9e-1e65f0248695" />
-<img width="1346" height="1364" alt="Screenshot 2026-09-16 101156" src="https://github.com/user-attachments/assets/18d0dc88-9b3e-48bb-a5f2-e83a69e98c39" />
-<img width="1346" height="1364" alt="Screenshot 2026-09-16 100527" src="https://github.com/user-attachments/assets/d7653cbc-3b6d-461b-aa83-93eeb7446244" />
-<img width="1346" height="1364" alt="Screenshot 2026-09-16 094850" src="https://github.com/user-attachments/assets/44844842-d8b6-4c5b-856c-4fe6c1c686ff" />
-<img width="1346" height="1364" alt="Screenshot 2026-09-16 092238" src="https://github.com/user-attachments/assets/80c562bd-6af0-4a67-9b05-a4934ebed730" />
+![Uploading Screenshot 2026-09-16 092238.png…]()
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 094850" src="https://github.com/user-attachments/assets/2c789002-3633-441b-bdcb-ef71047cf012" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 100527" src="https://github.com/user-attachments/assets/2f0d33a0-3711-4f35-bd13-dd9d9cb01c66" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 103452" src="https://github.com/user-attachments/assets/12070f45-834d-40dc-a7c5-cd88a9a5dce0" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 101156" src="https://github.com/user-attachments/assets/e6acf39f-862c-42ad-bb32-47da3745bd06" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 103655" src="https://github.com/user-attachments/assets/e1ba5601-447d-4c1a-aa37-6cbae5092777" />
+<img width="2538" height="1429" alt="Screenshot 2026-09-16 225329" src="https://github.com/user-attachments/assets/9e855df4-a78a-4ced-a6b0-8c6990091383" />
 
 
 
