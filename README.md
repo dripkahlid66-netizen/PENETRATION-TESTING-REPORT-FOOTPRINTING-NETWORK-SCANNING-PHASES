@@ -102,8 +102,8 @@ After completing the scan, I opened the Topology section in Zenmap, enabled the 
 
 <tr style="background-color: #f5f1e8;">
 <td style="border: 1px solid #999; padding: 12px;">6</td>
-<td style="border: 1px solid #999; padding: 12px;">single live hosts visible on local network</td>
-<td style="border: 1px solid #999; padding: 12px;">Zenmap identified one live hosts in the example network</td>
+<td style="border: 1px solid #999; padding: 12px;">two live hosts visible on local network</td>
+<td style="border: 1px solid #999; padding: 12px;">Zenmap identified two live hosts in the example network</td>
 <td style="border: 1px solid #999; padding: 12px;">Unknown or unauthorized devices may potentially be present on a network</td>
 <td style="border: 1px solid #999; padding: 12px; text-align: center;">🟡 <strong>Low</strong></td>
 </tr>
@@ -161,5 +161,15 @@ The exercises showed me that information gathering is an important part of cyber
 I also learned that technical findings should be documented clearly. A good cybersecurity report should explain what was performed, what was discovered, what the observation means, what risk it may create, and what can be done to reduce that risk.
 
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
+
+## 8. Evidences Collected
+<img width="2538" height="1429" alt="Screenshot 2026-09-16 225329" src="https://github.com/user-attachments/assets/51c0f02b-fc56-4973-964f-96cd744df001" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 103655" src="https://github.com/user-attachments/assets/d2103271-cdbe-4323-8242-7926d01fad83" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 103452" src="https://github.com/user-attachments/assets/16d64ccd-2f41-44c3-af9e-1e65f0248695" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 101156" src="https://github.com/user-attachments/assets/18d0dc88-9b3e-48bb-a5f2-e83a69e98c39" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 100527" src="https://github.com/user-attachments/assets/d7653cbc-3b6d-461b-aa83-93eeb7446244" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 094850" src="https://github.com/user-attachments/assets/44844842-d8b6-4c5b-856c-4fe6c1c686ff" />
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 092238" src="https://github.com/user-attachments/assets/80c562bd-6af0-4a67-9b05-a4934ebed730" />
+
 
 
