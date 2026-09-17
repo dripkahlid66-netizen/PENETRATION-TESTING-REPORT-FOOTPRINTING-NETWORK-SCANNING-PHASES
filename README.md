@@ -163,13 +163,20 @@ I also learned that technical findings should be documented clearly. A good cybe
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 
 ## 8. Evidences Collected
-![Uploading Screenshot 2026-09-16 092238.png…]()
+<img width="1346" height="1364" alt="Screenshot 2026-09-16 092238" src="https://github.com/user-attachments/assets/53b96b1c-9031-44eb-a236-1adb317343db" />
 <img width="1346" height="1364" alt="Screenshot 2026-09-16 094850" src="https://github.com/user-attachments/assets/2c789002-3633-441b-bdcb-ef71047cf012" />
 <img width="1346" height="1364" alt="Screenshot 2026-09-16 100527" src="https://github.com/user-attachments/assets/2f0d33a0-3711-4f35-bd13-dd9d9cb01c66" />
 <img width="1346" height="1364" alt="Screenshot 2026-09-16 103452" src="https://github.com/user-attachments/assets/12070f45-834d-40dc-a7c5-cd88a9a5dce0" />
 <img width="1346" height="1364" alt="Screenshot 2026-09-16 101156" src="https://github.com/user-attachments/assets/e6acf39f-862c-42ad-bb32-47da3745bd06" />
 <img width="1346" height="1364" alt="Screenshot 2026-09-16 103655" src="https://github.com/user-attachments/assets/e1ba5601-447d-4c1a-aa37-6cbae5092777" />
 <img width="2538" height="1429" alt="Screenshot 2026-09-16 225329" src="https://github.com/user-attachments/assets/9e855df4-a78a-4ced-a6b0-8c6990091383" />
+
+Author: Dominic Joshua
+Cybersecurity professional BO83
+linkedin: www.linkedin.com/in/dominic-joshua-bb69473a
+📌 Project Information
+Program Name: Cybersecurity program at Networkwalks
+
 
 
 
